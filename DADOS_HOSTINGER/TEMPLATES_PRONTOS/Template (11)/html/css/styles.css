@@ -1,0 +1,44 @@
+body {
+	margin-bottom: 0px;
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #092773;
+}
+a.adv:link {text-decoration: none; font-weight:bold;}
+a.adv:hover {text-decoration: none; font-weight:bold;}
+a.adv:visited {text-decoration: none; font-weight:bold;}
+
+a:link {
+	color: #092773;
+	font-family: Verdana;
+	font-size: 10px;
+	text-decoration: none;
+
+}
+a:hover {
+	color: #092773;
+	font-family: verdana;
+	font-size: 10px;
+	font-weight: normal;
+	background-color: #00CCFF;
+}
+a:visited {
+	color: #092773;
+	font-family: verdana;
+	font-size: 10px;
+	text-decoration: none;
+
+}
+td, textarea, input, select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #092773;
+}
+.tableDetail {
+	font-size: 10px;
+}
